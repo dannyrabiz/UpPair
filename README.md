@@ -7,3 +7,4 @@ Easy to use  python tool to visualize intersection between paired groups.
 
 ## Example 2: 
 - Comparing methodologies on same sample
+![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example2.png)
