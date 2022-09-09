@@ -25,3 +25,7 @@ Alternatively, if you prefer anaconda
 ### Example 4: Grouping of 3 samples. 
 - Figure shows intersection of somatic mutation identified in various biopsies in the same individual
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example4.png)
+
+### Example 5:  
+- Figure shows comparison of two methods (CTC and cfDNA) to detect somatic mutations compared with biopsy. Both methods are compared only with against biopsy (treated as gold-standard) and sensitivity and specifity is displayed.   
+![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example5.png)
