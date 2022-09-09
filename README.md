@@ -12,7 +12,8 @@ Alternatively, if you prefer anaconda
 
 ## Introduction
 Where [UpSet plots](https://ieeexplore.ieee.org/document/6876017/) were created to solve the problem of the over complicated Venn Diagram with multiple sets overlapping. 
-![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Complicated_Venn.jpg)
+UpPair is meant to solve the issue of sequential Venn Diagrams. 
+![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Sequential_Venn.png)
 
 
 ### Example 1: Basic Plot 
