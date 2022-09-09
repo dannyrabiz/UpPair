@@ -10,6 +10,10 @@ Alternatively, if you prefer anaconda
 
 `conda install UpPair`
 
+## Introduction
+Where [UpSet plots](https://ieeexplore.ieee.org/document/6876017/) were created to solve the problem of the over complicated Venn Diagram with multiple sets overlapping. 
+![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Complicated_Venn.jpg)
+
 
 ### Example 1: Basic Plot 
 - Visualize the overlap of replicate samples from the same patient sequenced separaltey
