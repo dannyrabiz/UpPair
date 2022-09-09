@@ -27,5 +27,5 @@ Alternatively, if you prefer anaconda
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example4.png)
 
 ### Example 5:  
-- Figure shows comparison of two methods (CTC and cfDNA) to detect somatic mutations compared with biopsy. Both methods are compared only with against biopsy (treated as gold-standard) and sensitivity and specifity is displayed.   
+- Figure shows comparison of two methods (CTC and cfDNA) to detect somatic mutations compared with biopsy. Both methods are compared only with against biopsy (treated as gold-standard) and sensitivity and specifity is displayed. Results are compared across multiple cancer types to determine if a given method would perform better in a certain cancer type. 
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example5.png)
