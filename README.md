@@ -11,8 +11,7 @@ Alternatively, if you prefer anaconda
 `conda install UpPair`
 
 ## Introduction
-Where [UpSet plots](https://ieeexplore.ieee.org/document/6876017/) were created to solve the problem of the over complicated Venn Diagram with multiple sets overlapping. 
-UpPair is meant to solve the issue of sequential paired Venn Diagrams. 
+Where [UpSet plots](https://ieeexplore.ieee.org/document/6876017/) were created to solve the problem of the over complicated Venn Diagram with multiple sets overlapping, UpPair is designed to solve the issue of sequential paired Venn Diagrams. 
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Sequential_Venn.png)
 
 On its own a Venn diagram is satisfactory in displaying data; however, if the diagrams are related to one another and one wanted to compare them as to visualize a comparison between the groupings, they are essentially unhelpful both for visualizing absolute numbers and relative overlap ratios. UpPair plots allow you maintain all the data demonstrated in a Venn, while allowing you to orient each pairing in a way that compairing between them is simple and intuitive. The best part is that with our tool, you can create these plots with only 1 line of code and with straightforward easy to use cusomtizations.
