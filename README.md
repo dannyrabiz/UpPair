@@ -16,6 +16,10 @@ Where [UpSet plots](https://ieeexplore.ieee.org/document/6876017/) were created 
 
 On its own a Venn diagram is satisfactory in displaying data; however, if the diagrams are related to one another and one wanted to compare them as to visualize a comparison between the groupings, they are essentially unhelpful both for visualizing absolute numbers and relative overlap ratios. UpPair plots allow you maintain all the data demonstrated in a Venn, while allowing you to orient each pairing in a way that compairing between them is simple and intuitive. The best part is that with our tool, you can create these plots with only 1 line of code and with straightforward easy to use cusomtizations.
 
+## Examples: 
+- Examples could function as good strating points when created your own plot. Once your data is formatted properly, you can used the command used to create the figure that would best capture your data and adjust setting accordingly. 
+- All examples show figures frmatted with Biomedical data. UpPair certainly is not limited to these use cases. 
+- All data used for display was generated randomly and should not be used to infer any biological phenomena. 
 
 ### Example 1: Basic Plot 
 - Visualize the overlap of replicate samples from the same patient sequenced separaltey
@@ -29,7 +33,7 @@ On its own a Venn diagram is satisfactory in displaying data; however, if the di
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example3.png)
 
 ### Example 4: Grouping of 3 samples. 
-- Figure shows intersection of somatic mutation identified in various biopsies in the same individual
+- Figure shows intersection of somatic mutation identified in various biopsies in the same individual. Includes sample IDs. 
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example4.png)
 
 ### Example 5:  
