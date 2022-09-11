@@ -44,5 +44,5 @@ On its own a Venn diagram is satisfactory in displaying data; however, if the di
 - Figure shows results from a single patient over the course of a few years. It displays the consistency between somatic mutations dected from cfDNA and CTC collections. It also shows their relationship with two biomarkers over the course of various treatments. 
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example6_new.png)
 
-##Documentation 
+## Documentation 
 For full documentation and instructions on customizations please see [User Manual](https://github.com/dannyrabiz/UpPair/blob/main/User_Manual.ipynb)
