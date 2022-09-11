@@ -35,3 +35,7 @@ On its own a Venn diagram is satisfactory in displaying data; however, if the di
 ### Example 5:  
 - Figure shows comparison of two methods (CTC and cfDNA) to detect somatic mutations compared with biopsy. Both methods are compared only with against biopsy (treated as gold-standard) and sensitivity and specifity is displayed. Results are compared across multiple cancer types to determine if a given method would perform better in a certain cancer type. 
 ![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example5.png)
+
+### Example 6:
+- Figure shows results from a single patient over the course of a few years. It displays the consistency between somatic mutations dected from cfDNA and CTC collections. It also shows their relationship with two biomarkers over the course of various treatments. 
+![](https://github.com/dannyrabiz/UpPair/blob/main/Images/Example6.png)
